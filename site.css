@@ -1,0 +1,22 @@
+header {
+    
+    background: #333; /* Cor de fundo escura */
+    color: white; /* Cor do texto */
+    padding: 15px; /* Espaçamento interno */
+    text-align: center; /* Centraliza o conteúdo */
+}
+
+main {
+
+    font-family: Arial, sans-serif; /* Define a fonte do texto */
+    margin: 0; /* Remove margens padrão */
+    padding: 0; /* Remove preenchimentos padrão */
+    background-color: #beffd1; /* Define a cor de fundo */
+}
+
+main a:hover{
+    font-size: 20px;
+    color: cornflowerblue;
+
+
+}
